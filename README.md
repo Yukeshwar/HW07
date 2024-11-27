@@ -1,60 +1,7 @@
-# p5.js Template
+This assignment is based on the Ring of Power poem from The Lord of the Rings, a verse I have memorized and have always found fascinating. The poem, which speaks of the creation and power of the One Ring, is an integral part of the story in The Lord of the Rings and plays a key role in the struggle between good and evil. Inspired by this poem, the goal of this assignment was to bring its essence to life through interactive design, transforming the poem into a dynamic visual experience.
 
-This is a README file that can be used to describe and document your assignment.
+For this assignment, I created an animation where letters from the Ring Verse initially float randomly around the canvas. Upon clicking, these letters gradually align to form a rotating ring, mimicking the iconic inscription of the One Ring. The ring rotates around the center of the screen, with a fiery glowing effect that simulates the mystical power of the One Ring. The interaction captures the essence of the poem, symbolizing the creation of the One Ring and its influence.
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+The ring, just like in the story, is in a constant state of flux. With a second click, the ring dissolves, and the letters scatter back to their floating state. This mimics the cyclical nature of the ring’s power, always shifting and never truly resting. The smooth transition between floating letters and the rotating ring represents the ongoing battle for control of the One Ring, mirroring its impact on those who come in contact with it.
 
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2024f-b.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+This assignment combines both my technical skills and my love for The Lord of the Rings, turning a classic piece of literature into an interactive, dynamic visual. Through this animation, I sought to bring the powerful imagery of the One Ring's inscription into the digital world in a way that highlights both its danger and allure.
